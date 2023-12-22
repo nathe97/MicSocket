@@ -1,4 +1,4 @@
-# TestRecorder
+# MicSocket
 
 Simple Server and Client to send microphone input via websocket.
 
