@@ -12,7 +12,7 @@ AsyncServer.exe
 Run client.
 
 ```
-Async client.exe
+AsyncClient.exe
 ```
 
 ![](https://raw.githubusercontent.com/nathe97/MicSocket/master/info.png?raw=true)
