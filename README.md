@@ -1,6 +1,6 @@
 # MicSocket
 
-Simple Server and Client to send microphone input via websocket.
+Simple Server and Client to send microphone input via socket.
 
 Client sends microphone audio to server.
 The server receives the audio and plays it back.
